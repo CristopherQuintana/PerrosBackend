@@ -1,6 +1,6 @@
 # TDW
 
-## Proyecto 2
+## Proyecto 3
 
 #### Integrantes: Cristopher Quintana
 
@@ -24,4 +24,4 @@ Para colocar 10 perros aleatorios en la base de datos
 
 ### Paso 3
 
-Abrir el archivo Perros.postman_collection.json para ver las llamadas a la API guardadas
+Seguir con el frontend
